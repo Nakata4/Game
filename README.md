@@ -15,6 +15,7 @@ https://www.mongodb.com/cloud/atlas/register
 
 https://dashboard.heroku.com/pipelines/79c319c8-be9a-4d82-a76f-ede1f1bfa7f9
 
+https://dashboard.heroku.com/apps/node-js-cool-new/deploy/github
 
 To start the server locally use
 ```
