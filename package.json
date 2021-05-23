@@ -17,7 +17,17 @@
     "boilerplate",
     "server"
   ],
-  "author": "Alexander Petrov <apetrovdev@gmail.com>",
+   "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nakata4/Game.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nakata4/Game/issues"
+  },
+  "author": "Atanas Cholov <stu2001717003@uni-plovdiv.bg>",
   "devDependencies": {
     "@babel/cli": "^7.1.2",
     "@babel/core": "^7.1.2",
