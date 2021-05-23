@@ -9,6 +9,8 @@ https://graphql.org/learn/
 
 https://mongoosejs.com/docs/index.html
 
+https://www.getpostman.com/collections/c962c0f0c384406ccffe
+
 https://www.mongodb.com/cloud/atlas/register
 
 ###### Project prepared for deploy at 
