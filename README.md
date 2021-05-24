@@ -7,11 +7,7 @@ https://expressjs.com/en/4x/api.html
 
 https://graphql.org/learn/
 
-https://mongoosejs.com/docs/index.html
-
 https://www.getpostman.com/collections/c962c0f0c384406ccffe
-
-https://www.mongodb.com/cloud/atlas/register
 
 ###### Project prepared for deploy at 
 
@@ -25,27 +21,10 @@ npm install
 npm run server
 ```
 
-## Creating a Database in mongoDB
-
-![Creating a cluster](https://raw.githubusercontent.com/AlexanderPPetrov/st-js-be-2020/master/docs/creating_cluster.jpg
-)
-
-## Setting up connection method
-
-![Creating a cluster](https://raw.githubusercontent.com/AlexanderPPetrov/st-js-be-2020/master/docs/connect.jpg)
-
-Press [CONNECT] and add your IP to whitelist and create MongoDB User with username and password then Choose a connection method
-
-![Creating a connection](https://raw.githubusercontent.com/AlexanderPPetrov/st-js-be-2020/master/docs/atlas.jpg
-)
 
 It will take a while for your cluster to be active. Reload the page if you are impatient and check.
 You will be ready when the buttons in gray [METRICS] [COLLECTIONS] become active
 
-Then from [COLLECTIONS] you will be able to create Database with name and a name for the collection you need.
-
-![Creating a database](https://raw.githubusercontent.com/AlexanderPPetrov/st-js-be-2020/master/docs/create_db.jpg
-)
 
 If you need more than one collection for your project create them.
 
@@ -95,10 +74,4 @@ query{users{
 }}
 ```
 
-## Deploy the project on heroku
-
-Create a new app on heroku and add the following config vars
-
-![Config variables](https://raw.githubusercontent.com/AlexanderPPetrov/st-js-be-2020/master/docs/config_vars_heroku.jpg
-)
 
